@@ -1,0 +1,66 @@
+.chatbox01 {
+  text-align: right;
+  margin-top: 10px;
+}
+
+.chatbox1 {
+  display: inline-block;
+  position: relative;
+  background-color: #ea5936;
+  border-radius: 20px;
+  color: #fff;
+  padding: 15px 20px;
+  margin-bottom: 10px;
+  max-width: 290px;
+  line-height: 1.5;
+  margin-right: 10px;
+}
+
+.chatbox1.chat {
+  margin-top: 10px;
+  margin-right: 20px;
+  text-align: right;
+}
+
+.chatbox1 .chattime {
+  position: absolute;
+  left: -72px;
+  top: 45px;
+  color: rgba(0, 0, 0, 0.4);
+}
+
+.chatbox2 {
+  display: inline-block;
+  position: relative;
+  background-color: #ea5936;
+  border-radius: 20px;
+  color: #fff;
+  padding: 15px 20px;
+  margin-bottom: 10px;
+  max-width: 290px;
+  line-height: 1.5;
+  margin-left: 10px;
+}
+.chatbox02 {
+  display: flex;
+  margin-top: 10px;
+}
+.customer {
+  margin-left: 10px;
+  width: 70px;
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
+.chatbox2.chat {
+  margin-top: 10px;
+  margin-right: 20px;
+  text-align: right;
+}
+
+.chatbox2 .chattime {
+  position: absolute;
+  right: -72px;
+  top: 30px;
+  color: rgba(0, 0, 0, 0.4);
+}

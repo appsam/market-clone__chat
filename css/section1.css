@@ -1,0 +1,22 @@
+.s1 {
+  display: flex;
+  margin-top: 10px;
+  border-bottom: 1px solid #e0e0e8;
+  padding-bottom: 10px;
+  font-size: 15px;
+}
+
+.s1 img {
+  width: 120px;
+}
+
+.price-text {
+  padding-top: 30px;
+  margin-left: 15px;
+  flex-direction: column;
+}
+
+.price {
+  margin-top: 20px;
+  font-weight: bold;
+}

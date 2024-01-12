@@ -1,0 +1,38 @@
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  height: 50px;
+  background-color: #f2f3f7;
+}
+
+.inputtab {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.plus {
+  width: 30px;
+  margin-left: 10px;
+}
+.inputbox {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 400px;
+  background-color: white;
+  border-radius: 20px;
+}
+.input-text {
+  margin-left: 10px;
+  color: rgba(0, 0, 0, 0.4);
+  font-weight: bold;
+}
+.smile {
+  width: 30px;
+  margin-right: 10px;
+}
+.send {
+  width: 30px;
+  margin-right: 10px;
+}
